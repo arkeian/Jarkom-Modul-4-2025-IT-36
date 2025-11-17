@@ -95,7 +95,13 @@ Langkah2: <br>
 	<img src="Image-Jarkom-Modul-4/Screenshot (1102)3.png" alt="topo" width="80%" height="80%">  
 </p>
 
+<p align="justify">
+&emsp; Setelah perhitungan selesai, lalu implementasi yang ada dari tabel ke topologi di VLSM
+</p>
 
+<p align="center">
+	<img src="Image-Jarkom-Modul-4/Screenshot (1101).png" alt="topo" width="80%" height="80%">  
+</p>
 
 ### • CIDR - GNS3
 
