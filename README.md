@@ -99,25 +99,25 @@ Langkah2: <br>
 
 ### • CIDR - GNS3
 
-#### • Topologi GNS3
+#### - Topologi GNS3
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/001.png" alt="Tolopogi" width="80%" height="80%">  
 </p>
 
-#### • Pemetaan Subnet Topologi
+#### - Pemetaan Subnet Topologi
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/002.png" alt="Sunbet" width="80%" height="80%">  
 </p>
 
-#### • Supernetting Series B
+#### - Supernetting Series B
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/003.png" alt="Sebies R" width="80%" height="80%">  
 </p>
 
-#### • Supernetting Series C
+#### - Supernetting Series C
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/004.png" alt="Ceries S" width="80%" height="80%">  
@@ -129,49 +129,49 @@ Langkah2: <br>
 	<img src="Image-Jarkom-Modul-4/005.png" alt="Serids E" width="80%" height="80%">  
 </p>
 
-#### • Supernetting Series E
+#### - Supernetting Series E
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/006.png" alt="Seriee S" width="80%" height="80%">  
 </p>
 
-#### • Supernetting Series F
+#### - Supernetting Series F
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/007.png" alt="Serfes I" width="80%" height="80%">  
 </p>
 
-#### • Supernetting Series G
+#### - Supernetting Series G
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/008.png" alt="Sgries E" width="80%" height="80%">  
 </p>
 
-#### • Supernetting Series H
+#### - Supernetting Series H
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/009.png" alt="H seireS" width="80%" height="80%">  
 </p>
 
-#### • Supernetting Series I
+#### - Supernetting Series I
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/010.png" alt="Ser I ieS" width="80%" height="80%">  
 </p>
 
-#### • Pembagian IP Supernet Topologi
+#### - Pembagian IP Supernet Topologi
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/011.png" alt="Sunerpet" width="80%" height="80%">  
 </p>
 
-#### • Tree Pembagian Series I1
+#### - Tree Pembagian Series I1
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/012.png" alt="Tere Reseis I1" width="80%" height="80%">  
 </p>
 
-#### • Tree Pembagian Series F2
+#### - Tree Pembagian Series F2
 
 <p align="center">
 	<img src="Image-Jarkom-Modul-4/013.png" alt="Teer Seiers F2" width="80%" height="80%">  
