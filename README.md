@@ -61,4 +61,12 @@ Rasulullah Shallallāhu ‘alaihi wa Sallam pernah bersabda:
 ## Walkthrough
 
 VLSM - CPT
-Langkah2:
+Langkah2: <br>
+<p align="justify">
+&emsp; Langkah pertama adalah menyusun topologi jaringannya terlebih dahulu sesuai ketentuan soal.
+</p>
+
+<p align="center">
+	<img src="Image-Jarkom-Modul-4/topo-modul4-cpt.png" alt="topo" width="80%" height="80%">  
+</p>
+
