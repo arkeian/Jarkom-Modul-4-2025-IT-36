@@ -71,6 +71,32 @@ Langkah2: <br>
 	<img src="Image-Jarkom-Modul-4/topo-modul4-cpt.png" alt="topo" width="80%" height="80%">  
 </p>
 
+<p align="justify">
+&emsp; Menghitung total host terlebih dahulu, diperoleh ada 3219 host. Lalu mengurutkan/sort dari subnet yang memiliki host paling banyak sampai ke yang paling dikit.
+</p>
+
+<p align="center">
+	<img src="Image-Jarkom-Modul-4/Screenshot (1102)1.png" alt="topo" width="80%" height="80%">  
+</p>
+
+<p align="justify">
+&emsp; Membuat tabel nama subnet, rute, jumlah IP, dan netmask untuk memastikan IP yang digunakan secara maksimal dan menyesuaikan dengan netmasknya.
+</p>
+
+<p align="center">
+	<img src="Image-Jarkom-Modul-4/Screenshot (1102)2.png" alt="topo" width="80%" height="80%">  
+</p>
+
+<p align="justify">
+&emsp; Pembuatan tabel kedua yang berisi subnet, network ID, netmask, broadcast, range IP. Tujuannya sendiri untuk menghitung IP bersih yang dapat dipakai setelah dikurangi penggunaan oleh network ID dan broadcast dan mengetahui range IP yang available buat dipakai.
+</p>
+
+<p align="center">
+	<img src="Image-Jarkom-Modul-4/Screenshot (1102)3.png" alt="topo" width="80%" height="80%">  
+</p>
+
+
+
 ### • CIDR - GNS3
 
 #### • Topologi GNS3
